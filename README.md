@@ -1,2 +1,2 @@
-# multimedia-specifications
-Compiled specifications for multimedia (audio, images, videos) formats
+# Multimedia Specifications
+This repository holds compiled specifications for multimedia (audio, images, videos) formats, organized specifically for easy access. All the specifications present in the repository are available publicly; this repository simply serves as a common place for them, as the organization of standards on the web is not very well-organized and it can take a long time to find the specification you need.
