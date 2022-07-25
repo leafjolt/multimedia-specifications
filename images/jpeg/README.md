@@ -1,1 +1,1 @@
-# JPEG Images
+# JPEG
