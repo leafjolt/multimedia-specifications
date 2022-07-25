@@ -1,1 +1,1 @@
-# JPEG XL Images
+# JPEG XL
